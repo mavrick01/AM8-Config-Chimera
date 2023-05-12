@@ -32,7 +32,7 @@ Configuration.h
 * #define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 400, 412.90 }
 * #define USE_PROBE_FOR_Z_HOMING
 * #define BLTOUCH
-* #define NOZZLE_TO_PROBE_OFFSET { -22, 14, -1.2 }
+* #define NOZZLE_TO_PROBE_OFFSET { -22, 17, -2.33 }
 * #define INVERT_X_DIR true
 * #define INVERT_Y_DIR false
 * #define INVERT_Z_DIR true
