@@ -60,5 +60,6 @@ Configuration_adv.h
 
 Tuning UBL - note ensure M875 is set to bed level not 0.2 or 0.3:
 * G29 P1 T  #Probe the points
-*G29 P3 # figure out any spaces
+* G29 P3 #Automatically fill in the blank spaces
+* G26 H230 B70 P1 # Print mesh validation 
 
